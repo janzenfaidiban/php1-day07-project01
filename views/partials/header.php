@@ -96,20 +96,15 @@
 
         <div class="row p-3">
 
-
-
             <!-- SIDEBAR AREA -->
             <div class="col-3">
                 <!-- nav -->
                 <ul class="nav flex-column">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="index.html">Dasbor</a>
+                        <a class="nav-link active" aria-current="page" href="./">Dasbor</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="sacodes-weekend.html">SaCode's Weekend</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="member.html">Member</a>
+                        <a class="nav-link" href="?p=semua">Member</a>
                     </li>
                 </ul>
                 <!-- end nav -->
